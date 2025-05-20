@@ -5,7 +5,7 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdullaah&count_private=true&bg_color=ffffff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdullaah&count_all=true&bg_color=ffffff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats" alt="GitHub Stats" />
     </td>
     <td align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAbdullaah&theme=default&hide_border=false&background=FFFFFF" alt="GitHub Streak" />
