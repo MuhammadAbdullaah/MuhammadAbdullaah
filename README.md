@@ -13,7 +13,6 @@
   </tr>
 </table>
 
----
 
 <table width="100%">
   <tr>
@@ -21,7 +20,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullaah&layout=compact&bg_color=ffffff&text_color=0A2540&title_color=635BFF&custom_title=Top%20Languages" alt="Top Languages" />
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🚀 Tech Stack</h3>
+      <h3>Tech Stack</h3>
       <p>
         <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
