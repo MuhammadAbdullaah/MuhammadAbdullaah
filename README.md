@@ -40,8 +40,3 @@
 
 ---
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1GYSyNhf_phx8_vmXblP4huyio1ubejx6/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20CV-0A2540?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My CV">
-  </a>
-</p>
